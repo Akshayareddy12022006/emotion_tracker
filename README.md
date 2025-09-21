@@ -512,6 +512,7 @@ docker-compose up
 ```
 
 * Both app and database containers will run together successfully.
+  
 //vaishnavi
 •  You made changes to one file in the above project but haven't staged them yet. You realize they were a mistake. What Git command will you use to discard the local changes?
 •	Command: git checkout -- <file-name> or git restore <file-name>
